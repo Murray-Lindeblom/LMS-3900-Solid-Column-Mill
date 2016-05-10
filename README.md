@@ -10,5 +10,7 @@ This is a Work-In-Progress.
 
 Very few of the CNC components have been built and tested.
 
+The X-axis components have been adjusted to as-built.
+
 Use the design at your own risk.
 
