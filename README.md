@@ -8,9 +8,9 @@ https://grabcad.com/library/mini-mill-cx605-1
 
 This is a Work-In-Progress.
 
-Very few of the CNC components have been built and tested.
+Not all the CNC components have been built and tested.
 
-The X-axis components have been adjusted to as-built.
+The X-axis and Y-axis components have been adjusted to as-built.
 
 Use the design at your own risk.
 
